@@ -16,6 +16,8 @@ REGOLE
   int -> alla variabile viene associato un numero intero, positivo, negativo o nullo (es 6)
   float -> alla variabile viene associato un numero con virgola mobile, ovvero un numero che presenta una parte decimale. Laddove la parte decimale fosse nulla verrà indicata con lo zero (es 11.0)
   bool -> la variabile accetta due soli tipi di valore, True o False, valori che permettono al programma a poter prendere decisioni o eseguire una parte di codice (es true, false)
+  undefined -> la variabile è stata inizializzata ma non gli è stato attribuito alcun valore (es let name;)
+  null -> alla variabile viene attribuito il valore nullo (es let age = null;)
 */
 
 /* ESERCIZIO 2
